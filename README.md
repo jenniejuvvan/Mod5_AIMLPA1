@@ -1,2 +1,17 @@
 # Mod5_AIMLPA1
 Module 5 AI ML - Practical Application #1
+
+Drivers who go to bars more than once a month, aren’t widowed, and aren’t traveling with kids show higher acceptance rates. This suggests these drivers are more likely to be socially active or going out with adults.
+- Drivers traveling with friends, partners, or alone tend to accept more compared to those with children. Hence passengers and companionship drive does have an impact on acceptance.The social setting of the trip (e.g., with friends or partner) makes bar coupon offers more relevant and likely to be accepted.
+- Drivers under age 30 who visit bars frequently show above-average acceptance rates. Younger adults might be more responsive to discounts on social outings like bars.
+- Drivers who reported visiting bars more than 3 times per month (i.e., bar_number > 3) had a higher acceptance rate of bar coupons. Hence drivers who frequently go to bars are more receptive to bar coupon offers, indicating a higher relevance of the offer to their lifestyle.
+- Acceptance is higher among drivers not traveling with 'Kid(s)'. Hence drivers are more likely to accept bar coupons when traveling with adults, possibly due to social or leisure context suitability.
+- Those who visited cheap restaurants more than 4 times/month and had income below $50K were more likely to accept. Cost-sensitive consumers who dine out frequently at inexpensive places may see bar coupons as valuable savings, influencing acceptance.
+- Drivers outside this occupational group (Farming, Fishing & Forestry) had higher acceptance. Certain job types may correlate with lifestyle choices more aligned with bar-going behavior, influencing coupon responsiveness.
+- Based on the above my hypothesis is that cost-conscious consumers are receptive to bar coupons as a form of saving while socializing.Bar coupons are more appealing to younger, socially active, and possibly budget-conscious drivers. This insight can help companies target bar coupons toward specific demographics (like young professionals or frequent bar-goers) for higher redemption and coupon acception rates.
+- Coffee House coupons are highly accepted when traveling with friends and headed to no urgent place, suggesting that social trips with friends and flexible schedules increase interest in casual coffee outings. "Coffee House + Friend(s) + No Urgent Place → High acceptance"
+- Carry out & Takeaway coupons are accepted more when people are alone and going home, implying solo travelers heading home prefer quick, convenient meal options "Carry Out + Alone + Home → High acceptance"
+- Bar coupons see higher acceptance among drivers traveling with a partner and heading to no urgent place, suggesting bar outings are considered spontaneous or date-like experiences when there's no time constraint. Bar + Partner + No Urgent Place → High acceptance
+- Restaurant(<20) coupons are popular when drivers are alone and headed to work, indicating low-cost restaurant deals appeal to solo commuters looking for affordable meals near work-Restaurant(<20) + Alone + Work → High acceptance
+- Restaurant(20-50) coupons get accepted more with friends heading home, supporting group dining plans after an outing may encourage acceptance of higher-range restaurant coupons
+- Acceptance generally drops when passengers include kids possibly due to age restrictions or the nature of the destination (e.g., Bar, Coffee House). Destination is Work — people are less likely to divert for leisure offers during work commutes.
